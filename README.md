@@ -6,4 +6,4 @@
   </picture>
 </div>
 
-![](https://github-readme-stats-fast.vercel.app/api?username=sunhouy&count_private=true&show_icons=true&locale=cn&include_all_commits=true&rank_icon=percentile) ![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sunhouy&hide=css,html&layout=compact&langs_count=8)
+![](https://github-readme-stats-fast.vercel.app/api?username=sunhouy&count_private=true&show_icons=true&locale=cn&include_all_commits=true) ![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sunhouy&hide=css,html&layout=compact&langs_count=8)
